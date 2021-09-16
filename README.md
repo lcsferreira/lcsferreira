@@ -7,7 +7,7 @@
 ### About me 👍
 
 I'm a student of {Computer Science} at Federal University of Pelotas (UFPel).
-</break>
+</br>
 Working at Iteris consulting and software as software developer intern.
 
 - 📚 Studying: 
