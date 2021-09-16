@@ -13,7 +13,7 @@ Working at Iteris consulting and software as software developer intern.
 - Java Spring Web API (back-end)
 - Angular and React (front-end)
 <p align="left"> 
-    <img src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.clipartmax.com/png/middle/354-3543373_spring-framework-logo-svg-png-download-java-spring.png" alt="css3" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/14/568/png-clipart-angularjs-logo-javascript-security-token-angle-triangle.png" alt="html5" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="javascript" width="40" height="40"/>
 </p>
