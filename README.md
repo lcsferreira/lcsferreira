@@ -8,7 +8,7 @@
 
 I'm a student of {Computer Science} at Federal University of Pelotas (UFPel).
 </br>
-Working at Iteris consulting and software as software developer intern.
+Learning and developing on my skills in programming
 
 - 📚 Studying: 
 - Java Spring Web API (back-end)
