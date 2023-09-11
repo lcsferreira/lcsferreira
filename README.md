@@ -1,20 +1,23 @@
-# Hi, I'm Lucas Ferreira! 😉
+# Meu Perfil 🚀
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/lcsferreira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/lucas-ferreira-2001/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/Ls_oFerreira)
+Olá! Eu sou o Lucas Simões Ferreira, um estudante de graduação em Ciência da Computação na Universidade Federal de Pelotas (UFPel). Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
-### About me 👍
+## Minhas Habilidades 💻
 
-I'm a student of {Computer Science} at Federal University of Pelotas (UFPel).
-</br>
-Learning and developing on my skills in programming
+Aqui estão algumas das linguagens e tecnologias com as quais estou familiarizado:
 
-- 📚 Studying: 
-- Java Spring Web API (back-end)
-- Angular and React (front-end)
-<div >
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+- **Front-End**: React, Angular
+- **Linguagens de Programação**: JavaScript, Python, PHP, Java, C, C++
+- **Banco de Dados**: MySQL
+- **Interesses Atuais**: Java para Back-End
+
+## Entre em Contato 📫
+
+Vamos nos conectar! Se você tem algum projeto em mente, quer discutir tecnologia ou apenas bater um papo, fique à vontade para entrar em contato comigo:
+
+- **E-mail**: lucas.simoes.ferreira@gmail.com
+- **LinkedIn**: [Lucas Simões Ferreira](https://www.linkedin.com/in/lucas-ferreira-2001/)
+
+## Obrigado por Visitar! 🙌
+
+Obrigado por dar uma olhada no meu perfil. Estou animado para colaborar em projetos empolgantes e continuar minha jornada de aprendizado em Ciência da Computação. Se você tiver alguma pergunta ou sugestão, sinta-se à vontade para entrar em contato. 😊🚀
