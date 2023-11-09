@@ -1,23 +1,23 @@
-# Meu Perfil 🚀
+# My Profile 🚀
 
-Olá! Eu sou o Lucas Simões Ferreira, um estudante de graduação em Ciência da Computação na Universidade Federal de Pelotas (UFPel). Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Hello! I'm Lucas Simões Ferreira, an undergraduate student majoring in Computer Science at the Federal University of Pelotas (UFPel). I'm passionate about technology and always on the lookout for new challenges and learning opportunities.
 
-## Minhas Habilidades 💻
+## My Skills 💻
 
-Aqui estão algumas das linguagens e tecnologias com as quais estou familiarizado:
+Here are some of the languages and technologies I'm familiar with:
 
 - **Front-End**: React, Angular
-- **Linguagens de Programação**: JavaScript, Python, PHP, Java, C, C++
-- **Banco de Dados**: MySQL
-- **Interesses Atuais**: Java para Back-End
+- **Programming Languages**: JavaScript, Python, PHP, Java, C, C++
+- **Database**: MySQL
+- **Current Interests**: Java for Back-End
 
-## Entre em Contato 📫
+## Get in Touch 📫
 
-Vamos nos conectar! Se você tem algum projeto em mente, quer discutir tecnologia ou apenas bater um papo, fique à vontade para entrar em contato comigo:
+Let's connect! If you have a project in mind, want to discuss technology, or just have a chat, feel free to reach out to me:
 
-- **E-mail**: lucas.simoes.ferreira@gmail.com
+- **Email**: lucas.simoes.ferreira@gmail.com
 - **LinkedIn**: [Lucas Simões Ferreira](https://www.linkedin.com/in/lucas-ferreira-2001/)
 
-## Obrigado por Visitar! 🙌
+## Thank You for Visiting! 🙌
 
-Obrigado por dar uma olhada no meu perfil. Estou animado para colaborar em projetos empolgantes e continuar minha jornada de aprendizado em Ciência da Computação. Se você tiver alguma pergunta ou sugestão, sinta-se à vontade para entrar em contato. 😊🚀
+Thank you for taking a look at my profile. I'm excited to collaborate on exciting projects and continue my journey of learning in Computer Science. If you have any questions or suggestions, feel free to get in touch. 😊🚀
